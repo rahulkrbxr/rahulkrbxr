@@ -1,5 +1,5 @@
-### Hi there 👋, I'm Rahul
-
+## Hi there 👋, I'm Rahul
+##### Aspiring software engineer & data science enthusiast 👨‍💻️
 <!--
 **rahulkrbxr/rahulkrbxr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -15,7 +15,10 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+---
 
-- 👀 I'm interested in field of Data Science and Software Development
-- 🌱 I’m currently learning Flutter and JavaScript
-- 👨‍🎓 I'm currently studying Computer Engineering from SPPU, Pune
+#### About Me
+  - 👀 I'm interested in field of Data Science and Software Development
+  - 🌱 I’m currently learning Flutter and JavaScript
+  - 👨‍🎓 I'm currently studying Computer Engineering from SPPU, Pune
+
