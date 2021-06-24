@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi there 👋, I'm Rahul
 
 <!--
 **rahulkrbxr/rahulkrbxr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+
+- 👀 I'm interested in field of Data Science and Software Development
+- 🌱 I’m currently learning Flutter and JavaScript
+- 👨‍🎓 I'm currently studying Computer Engineering from SPPU, Pune
