@@ -1,5 +1,5 @@
 ## Hi there 👋, I'm Rahul
-##### Aspiring software engineer & data science enthusiast 👨‍💻️
+##### Aspiring software engineer & data scientist 👨‍💻️
 <!--
 **rahulkrbxr/rahulkrbxr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
