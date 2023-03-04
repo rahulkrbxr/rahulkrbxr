@@ -18,7 +18,9 @@ Here are some ideas to get you started:
 ---
 
 #### About Me
-![TofieStudentGIF](https://user-images.githubusercontent.com/61363513/222879317-ef184042-a964-4212-b32e-46607d26f0dd.gif)
+
+<img src="https://user-images.githubusercontent.com/61363513/222879317-ef184042-a964-4212-b32e-46607d26f0dd.gif" width="250" height="250">
+
   - 📚 Student
   - 👀 Interested in Softwares & Data
   - 🌱 Learning Python & Front-end technologies
