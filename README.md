@@ -1,5 +1,5 @@
 ## Hi there 👋, I'm Rahul
-##### Aspiring software engineer & data scientist 👨‍💻️
+##### Aspiring Software Engineer 👨‍💻️
 <!--
 **rahulkrbxr/rahulkrbxr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -18,6 +18,7 @@ Here are some ideas to get you started:
 ---
 
 #### About Me
-  - 👀 I'm interested in the field of Data Science and Software Development
-  - 🌱 I’m currently learning Android and JavaScript
-  - 👨‍🎓 I'm currently studying Computer Engineering from SPPU, Pune
+  - 👀 Interested in Softwares & Data
+  - 🌱 Learning Python & Front-end technologies
+  - 👨‍🎓 Computer Engineering Graduate @SPPU, Pune
+  - ⚡ Fun fact: Loves sleeping 💤
