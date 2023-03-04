@@ -1,5 +1,5 @@
 ## Hi there 👋, I'm Rahul
-##### Aspiring Software Engineer 👨‍💻️
+##### 🧑‍💻 Software Engineer
 <!--
 **rahulkrbxr/rahulkrbxr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -18,6 +18,8 @@ Here are some ideas to get you started:
 ---
 
 #### About Me
+![TofieStudentGIF](https://user-images.githubusercontent.com/61363513/222879317-ef184042-a964-4212-b32e-46607d26f0dd.gif)
+  - 📚 Student
   - 👀 Interested in Softwares & Data
   - 🌱 Learning Python & Front-end technologies
   - 👨‍🎓 Computer Engineering Graduate @SPPU, Pune
