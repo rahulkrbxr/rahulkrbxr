@@ -23,6 +23,6 @@ Here are some ideas to get you started:
 
   - 📚 Student
   - 👀 Interested in Softwares & Data
-  - 🌱 Learning Python & Front-end technologies
+  - 🌱 Python & Front-end (UX)
   - 👨‍🎓 Computer Engineering Graduate @SPPU, Pune
   - ⚡ Fun fact: Loves sleeping 💤
