@@ -13,6 +13,7 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+- 📚 Student
 -->
 
 
@@ -21,8 +22,8 @@ Here are some ideas to get you started:
 
 <img src="https://user-images.githubusercontent.com/61363513/222879317-ef184042-a964-4212-b32e-46607d26f0dd.gif" width="250" height="250">
 
-  - 📚 Student
+  
   - 👀 Interested in Softwares & Data
-  - 🌱 Python & Front-end (UX)
-  - 👨‍🎓 Computer Engineering Graduate @SPPU, Pune
+  - 🌱 Python, Java Spring Boot Development
+  - 👨‍🎓 Computer Engineer Graduate @SPPU, Pune
   - ⚡ Fun fact: Loves sleeping 💤
