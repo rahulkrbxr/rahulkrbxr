@@ -24,6 +24,5 @@ Here are some ideas to get you started:
 
   
   - 👀 Interested in Softwares & Data
-  - 🌱 Python, Java Spring Boot Development
   - 👨‍🎓 Computer Engineer Graduate @SPPU, Pune
   - ⚡ Fun fact: Loves sleeping 💤
